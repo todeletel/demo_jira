@@ -1,0 +1,1 @@
+# https://confluence.atlassian.com/display/JIRA/Configuring+OAuth+Authentication+for+an+Application+Link
